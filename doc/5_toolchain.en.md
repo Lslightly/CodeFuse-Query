@@ -1,6 +1,6 @@
 # Developing Plugins (VSCode)
 ## Installation
-### Install from VSCode marketplace (Recommand)
+### Install from VSCode marketplace (Recommended)
 [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=CodeFuse-Query.codefuse-query-extension)
 ### Install from local via VSIX pack
 1. Download the plugin.
